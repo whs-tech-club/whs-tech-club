@@ -1,1 +1,1 @@
-# whs-tech-club
+# Tech-Club
