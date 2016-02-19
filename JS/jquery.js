@@ -1,5 +1,6 @@
 $(document).ready(function() {
-//alert("1");
+    jQuery("#heading").fitText(1.5, { minFontSize: '30px', maxFontSize: '60px' });
+
     var stickyNavTop = $('.nav').offset().top;
 
     var stickyNav = function(){
